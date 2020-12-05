@@ -1,0 +1,15 @@
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\MainWindow.g.cs
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\App.g.cs
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color_MarkupCompile.cache
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color_MarkupCompile.lref
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\bin\Debug\home_work_wpf_color.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\bin\Debug\home_work_wpf_color.exe
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\bin\Debug\home_work_wpf_color.pdb
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\MainWindow.baml
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.g.resources
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.exe
+C:\Users\Kolotyuk\source\repos\home_work_wpf_color\home_work_wpf_color\obj\Debug\home_work_wpf_color.pdb
