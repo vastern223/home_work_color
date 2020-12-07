@@ -95,7 +95,10 @@
                         <Border Grid.Column="0">
                             <TextBlock Text="{Binding ElementName=fleks, Path=Background, Mode=OneTime}"></TextBlock>
                         </Border>
-                        <Border Grid.Column="1" Width="100" Background="{Binding ElementName=fleks, Path=Background, Mode=OneTime}" >
+                        <Border Grid.Column="1" Width="100" >
+                            <Border.Background>
+                                <SolidColorBrush Color="{Binding }"/>
+                            </Border.Background>
                         </Border>
                         <Button IsEnabled="False" Margin="4" Grid.Column="2">Delete</Button>
                     </Grid>
